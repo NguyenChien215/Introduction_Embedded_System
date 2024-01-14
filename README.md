@@ -1,4 +1,3 @@
-/* Add Author and Project Details here */
 Author: NGUYEN QUANG CHIEN
 Project details: 
 This project is to write four functions: 
